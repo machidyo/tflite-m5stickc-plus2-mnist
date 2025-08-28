@@ -147,5 +147,5 @@ void setupDisplay() {
   M5.Display.fillScreen(BLACK);
   M5.Display.setCursor(10, 20);
   M5.Display.printf("Hello world\n");
-  printf("Hello world ver.3 %d\n");
+  printf("Hello mnist world\n");
 }
